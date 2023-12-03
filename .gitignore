@@ -1,0 +1,3 @@
+__pycache__
+.venv/
+gcp-service-acc-api-key.json
